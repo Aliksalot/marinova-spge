@@ -1,6 +1,6 @@
 package Models;
 
-public class Customer{
+public class Customer implements JSONMapper{
 
   private String name;
   private Email email;
@@ -14,6 +14,11 @@ public class Customer{
     this.name = name; 
     this.email = new Email(email);
     //proverqvame dali ima takuv seivnat, ako nqma suzdavame
+  }
+
+  @Override
+  public boolean sync(){
+    return true;
   }
 
 }

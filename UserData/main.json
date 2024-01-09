@@ -1,0 +1,404 @@
+{
+  "rooms": [
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    },
+    {
+      "price" : 100,
+      "isTaken": false
+    }
+  ]
+}

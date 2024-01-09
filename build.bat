@@ -1,1 +1,1 @@
-for /r ./src %%i in (*.java) do javac -d ./build -sourcepath ./src "%%i"
+javac -d ./build .\src\Core\Utils\*.java .\src\Core\Models\*.java .\src\Start.java

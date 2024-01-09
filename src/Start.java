@@ -1,4 +1,4 @@
-import Models.*;
+import Models.Customer;
 
 class Start{
 
